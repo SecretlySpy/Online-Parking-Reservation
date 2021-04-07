@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jdatechooser_bin_doc_1_1_1/lib/DateChooser.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jdatechooser_bin_doc_1_1_1/DateChooserDemo.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jcalendar/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jcalendar/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jcalendar/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk-13.0.1/lib/jcalendar/lib/junit-4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
